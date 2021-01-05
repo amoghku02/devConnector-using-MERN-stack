@@ -1,0 +1,6 @@
+{
+    "mongoURI": "mongodb+srv://amogh123:amogh123@devconnector.6dpg5.mongodb.net/<dbname>?retryWrites=true&w=majority",
+    "jwtToken": "my secret token",
+    "githubClientId": "1dddeecae6fbae8e1335",
+    "githubSecret": "58fa39f6b5a4afd38006fe6e1bf7423b2e50cb62"
+}
